@@ -1,0 +1,7 @@
+"name","alt_name","orig_name","state","county1","county2","county3","orig_county","established","discontinued","continuous","stamp_index","id","coordinates","duration","gnis_match","gnis_name","gnis_county","gnis_state","gnis_feature_id","gnis_feature_class","gnis_orig_name","gnis_orig_county","gnis_latitude","gnis_longitude","gnis_elev_in_m","gnis_dist","latitude","longitude"
+"A AND M COLLEGE",NA,"A AND M COLLEGE","MS","OKTIBBEHA",NA,NA,"Oktibbeha",1922,1932,TRUE,1,2,FALSE,10,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"A. B. C.",NA,"A. B. C.","TN","SUMNER",NA,NA,"Sumner",1880,1914,TRUE,4,3,FALSE,34,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AARON",NA,"AARON","MO","BATES",NA,NA,"Bates",1895,1933,TRUE,2,4,TRUE,38,TRUE,"AARON","BATES","MO",2091668,"Post Office","Aaron Post Office (historical)","Bates",38.4222222,-94.1541667,268,1,38.4222222,-94.1541667
+"AARON",NA,"AARON","TN","BENTON",NA,NA,"Benton",1889,1890,TRUE,5,5,FALSE,1,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AARON",NA,"AARON","TN","BRADLEY",NA,NA,"Bradley",1860,1860,TRUE,9,6,FALSE,0,FALSE,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"AARON",NA,"AARON","GA","BULLOCH",NA,NA,"Bulloch",1909,1920,TRUE,3,7,TRUE,11,TRUE,"AARON","BULLOCH","GA",326146,"Populated Place","Aaron","Bulloch",32.5682197,-81.9923397,81,1,32.5682197,-81.9923397
