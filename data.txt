@@ -1,6 +1,6 @@
 - path: tt_us_post_office
   name: tt_us_post_office
-  rows: 6
+  rows: 10
   cols: 29
   description: TT US Post Office
   type: table
