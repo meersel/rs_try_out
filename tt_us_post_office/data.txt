@@ -1,5 +1,5 @@
 path:
-- https://api.github.com/repos/meersel/rs_try_out/releases/assets/35348537
+- https://api.github.com/repos/meersel/rs_try_out/releases/assets/35348862
 - data.rds
 rows: 166140
 cols: 29
@@ -36,5 +36,5 @@ columns:
 description: TT US Post Office
 type: table
 filenames:
-  https://api.github.com/repos/meersel/rs_try_out/releases/assets/35348537: data.csv
+  https://api.github.com/repos/meersel/rs_try_out/releases/assets/35348862: data.csv
   data.rds: data.rds
