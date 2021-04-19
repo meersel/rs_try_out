@@ -4,3 +4,9 @@
   cols: 29
   description: TT US Post Office
   type: table
+- path: mydata
+  name: mydata
+  rows: 114
+  cols: 4
+  description: Beaver Body Temperature Measurements
+  type: table

@@ -1,0 +1,15 @@
+path:
+- data.csv
+- data.rds
+rows: 114
+cols: 4
+columns:
+  day: numeric
+  time: numeric
+  temp: numeric
+  activ: numeric
+description: Beaver Body Temperature Measurements
+type: table
+filenames:
+  data.csv: data.csv
+  data.rds: data.rds
